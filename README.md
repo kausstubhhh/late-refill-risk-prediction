@@ -24,7 +24,6 @@ This project:
 ---
 
 ## 📂 Data Sources
-
 ### 1. Prescription Drug Events (PDE)
 
 * ~5.5 million rows
